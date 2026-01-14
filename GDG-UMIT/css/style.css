@@ -1,0 +1,247 @@
+body {
+    /* background-color: #212529; */
+    background-color: #202124;
+    /* background: linear-gradient(135deg, #e7f0ff, #e8fdf2); */
+}
+
+.hovertabs a {
+    color: #6C757D;
+}
+
+.hovertabs a:hover {
+    color: #ffffffb3;
+}
+
+.headline {
+    color: #ffffff;
+}
+
+.tag-pill {
+    background: #212529;
+    padding: 8px 18px;
+    border-radius: 50px;
+    font-size: 14px;
+    border: 1px solid #ffffffb3;
+}
+
+span {
+    color: #fff;
+}
+
+.dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 4px;
+}
+
+.redbg {
+    background-color: #FAD2CF;
+}
+
+.yelbg {
+    background-color: #FEEFC3;
+}
+
+.greenbg {
+    background-color: #CEEAD6;
+}
+
+.blbg{
+    background: #D2E3FC;
+}
+
+.cta-btn {
+    padding: 14px 26px;
+    border-radius: 18px;
+    font-size: 17px;
+}
+
+.cta-btn a {
+    color: #202124;
+}
+
+.icon-box {
+    width: 55px;
+    height: 55px;
+    border-radius: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+
+.sz {
+    font-size: 90px;
+    /* icon size */
+    color: #174EA6;
+    /* icon color */
+    font-variation-settings:
+        'FILL' 1,
+        'wght' 400,
+        'GRAD' 0,
+        'opsz' 48;
+}
+
+.blic {
+    color:  #4285F4;
+}
+
+.redic{
+    color: #EA4335;
+}
+
+.yelic{
+    color: #FBBC04;
+}
+
+.gric {
+    color: #34A853;
+}
+
+.text-red{
+    color: #EA4335;
+}
+
+.text-blue{
+    color: #4285F4;
+}
+
+.text-green{
+    color: #34A853;
+}
+
+.text-yellow{
+    color: #FBBC04;
+}
+
+/* About Section */
+
+.about-section {
+  /* background: linear-gradient(to right, #ffffff, #f8fafc); */
+}
+
+/* Image */
+.image-wrapper img {
+  border-radius: 24px;
+}
+
+.sub-head h2{
+    color: #fff;
+}
+
+.dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  margin-right: 4px;
+}
+
+/* .dot.blue { background: #4285f4; }
+.dot.red { background: #ea4335; }
+.dot.yellow { background: #fbbc05; }
+.dot.green { background: #34a853; } */
+
+/* Mission Card */
+.mission-card {
+  background: #ffffff;
+  border: 1px solid #eef2f7;
+}
+
+.icon-circle {
+  width: 44px;
+  height: 44px;
+  background: #e8f0fe;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.icon-circle span {
+  font-size: 22px;
+  color: #4285f4;
+}
+
+
+/* Seminars Count Section */
+
+
+/* Top label  */
+/* .impact-label {
+    
+  font-size: 14px;
+  letter-spacing: 1.5px;
+  color: #3b82f6;
+  font-weight: 600;
+} */
+
+/* Heading */
+.impact-heading {
+  font-size: 2.6rem;
+  font-weight: 800;
+  color: #111827;
+}
+
+.impact-sub-head span {
+    color: #111827;
+}
+
+/* Card */
+.impact-card {
+  background: #fff;
+  border-radius: 16px;
+  padding: 36px 24px;
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.08);
+  transition: transform 0.3s ease;
+}
+
+.impact-card:hover {
+  transform: translateY(-6px);
+}
+
+/* Icon */
+.icon-wrap {
+  width: 64px;
+  height: 64px;
+  border-radius: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto 20px;
+}
+
+.icon-wrap span {
+  font-size: 28px;
+}
+
+/* Icon colors */
+.icon-wrap.blue {
+  background: #D2E3FC;
+  color: #4285F4;
+}
+
+.icon-wrap.red {
+  background: #FAD2CF;
+  color: #EA4335;
+}
+
+.icon-wrap.green {
+  background: #CEEAD6;
+  color: #34A853;
+}
+
+/* Numbers */
+.count {
+  font-size: 3rem;
+  font-weight: 800;
+  margin-bottom: 8px;
+}
+
+/* Text */
+.impact-card p {
+  font-size: 1.05rem;
+  color: #6b7280;
+  margin: 0;
+}
