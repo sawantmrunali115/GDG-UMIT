@@ -58,11 +58,11 @@ span {
   border-radius: 18px;
   font-size: 17px;
 }
-
+/* 
 .cta-btn.btn-outline-light:hover{
   background-color: transparent;
   color: #fff;
-}
+} */
 
 .icon-box {
   width: 55px;
@@ -278,7 +278,6 @@ span {
     width: 20%;
   }
 }
-
 
 /* Seminars Count Section */
 
