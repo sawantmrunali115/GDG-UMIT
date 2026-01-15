@@ -172,6 +172,11 @@ span {
   transform: translateY(-6px);
 }
 
+.carousel-item {
+  padding: 20px 0;
+}
+
+
 /* Colored top border */
 .border-blue {
   border-top: 5px solid #4285f4;
